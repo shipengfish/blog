@@ -5,16 +5,43 @@ permalink: /about.html
 hideHomeActive: true
 ---
 
-## 关于我
+# 👨🏻‍💻 关于我
 
-- 我是一名来自杭州的工程师，主职前端，会一点 Swift、Rust、Python，也会点设计。
-- 喜欢开源，不喜欢技术网红环境，会去折腾一些新技术，很相信长期主义这个事情。
-- 喜欢做简洁美观易用的产品，开发了 [**MiaoYan**](https://github.com/tw93/MiaoYan)、[**Pake**](https://github.com/tw93/pake)、[**Maple**](https://github.com/tw93/Maple)、[**XRender**](https://xrender.fun/)、[**WeexUi**](https://apache.github.io/incubator-weex-ui/)。
-- 在 [**Tw93**](https://tw93.fun/) 博客沉淀我的技术/生活/思考方式，用 [**潮流周刊**](https://weekly.tw93.fun/) 每周发一些看到的好东西。
+- 我是一名来自杭州的工程师，主职后端，在 AI 的帮助下也做过几个前端小工具，比较有趣的是 **[大字报生成器](https://dzb.huanxi.me/)** ，还有几个家人内部使用的工具不大方便展示。
+- 喜欢开源，但是很惭愧暂未为开源世界贡献力量，希望后面有时间可以参与一些开源项目。
+- 喜欢折腾，尤其是一些软件工具或者电子产品。
+- 喜欢跑步，几年前立下了个小目标：每年去一个不同的城市跑马拉松。
+- 日常会碎片化阅读，背单词以及听英语小说，没有明确的目标，所以进步也缓慢。
 
-## 关注我
+#### 我的装备
 
-- [Github](https://github.com/{{site.github}})
-- [Twitter](https://twitter.com/{{site.twitter}})
-- [知乎](https://www.zhihu.com/people/{{site.zhihu}})
-- [V2EX](https://www.v2ex.com/member/{{site.v2ex}})
+##### 软件
+
+> 以下软件在我的日常使用中占有相当高的比例
+
+1. [_Craft_](https://www.craft.do/)（颜值很高的一款笔记软件，==笔记界颜值天花板==）
+2. [_Obsidian_](https://obsidian.md/)（本地化的笔记软件，==笔记中的瑞士军刀==）
+3. [_NetNewsWire_](https://netnewswire.com/)（_RSS_ 阅读器）
+4. [欧路词典](https://www.eudic.net/v4/en/app/eudic)（背单词，查字典，各平台都安装）
+5. [每日英语听力](https://www.eudic.net/v4/en/app/ting)（英语阅读及听力）
+6. [微信阅读](https://weread.qq.com/)
+7. [有知有行](https://apps.apple.com/cn/app/id1513319754/)（投资理财工具）
+8. [小宇宙](https://apps.apple.com/cn/app/id1488894313)（播客，跑步时常听）
+9. [荒野乱斗](https://apps.apple.com/cn/app/id1504236603?mt=8)（日常消遣，==游戏界的抖音==）
+
+##### 硬件
+
+> 工作及日常会用到的电子设备
+
+| **设备名称**                                                                                    | **购入时间** | **计划使用/已使用期限 (年)** | **使用频率**    |
+| ----------------------------------------------------------------------------------------------- |:----| :-------------------------: | --------------- |
+| [**_Garmin255_**](https://www.garmin.com.cn/products/wearables/forerunner-255-slate-grey/)      | 2022.8       |            5/0.5            | ⭐️⭐️⭐️⭐️⭐️ |
+| **_MacBookPro19 款 _**                                                                           | 2020.4       |             5/3             | ⭐️⭐️⭐️⭐️⭐️ |
+| [**_iPhone12_**](https://www.apple.com.cn/shop/buy-iphone/iphone-12?cid=aos-cn-seo-baiduplagen) | 2021.1       |             5/2             | ⭐️⭐️⭐️⭐️⭐️ |
+| **_AirPods Pro 1 代 _**                                                                          | 2020         |             5/3             | ⭐️⭐️⭐️⭐️    |
+| **_iPad Air3_**                                                                                 | 2019.5       |             6/4             | ⭐️⭐️⭐️       |
+| **_Kindle Voyage_**                                                                             | 2016.6       |           10/6.5            | ⭐️             |
+
+1. _iPhone12_ 准备使用五年，主要是因为现在性能够用，我也不打主流的游戏，并且也过了追求最新产品的年纪了。为了能用到五年，设备名字早早设置为「==战五年的*iPhone12*==」。
+2. _Garmin255_ 而不是 _Apple Watch，_ 主要考虑在与==续航==及==跑步训练课程==。佳明在社区和课程的完善度来说，无可争议地处于第一位的。
+3. _AirPods Pro_ 强推，无论是跑步还是日常工作，让我都非常满意。（进过洗衣机，目前已退役）

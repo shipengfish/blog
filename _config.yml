@@ -1,26 +1,26 @@
 # Site Information
-title: Tw93
-description: "一个喜欢开源和折腾的工程师"
-url: https://think.huanxi.me
-repo: tw93/tw93.github.io
+title: Yusp
+description: "一个喜欢跑步和折腾的工程师"
+url: https://yusp.blog
+repo: shipengfish/blog
 lang: zh-CN
 timezone: Africa/El_Aaiun
 
 # Social Media and External URLs
-github: tw93
-zhihu: tw93
-twitter: HiTw93
-v2ex: tw93
+#github: tw93
+#zhihu: tw93
+#twitter: HiTw93
+#v2ex: tw93
 menu:
   - title: "Categories"
     url: "/categories.html"
   - title: "About"
     url: "/about.html"
-  - title: "Weekly"
-    url: "https://weekly.tw93.fun/"
+#  - title: "Weekly"
+#    url: "https://weekly.tw93.fun/"
 
 # SEO and Analytics
-google_analytics: G-KS7EDB6BRM
+#google_analytics: G-KS7EDB6BRM
 
 # Build Settings
 paginate: 10
@@ -65,7 +65,7 @@ plugins:
   - jekyll-feed
 
 # Custom Site Settings
-showBuyCoffee: true
+showBuyCoffee: false
 payImage: //gw.alipayobjects.com/zos/k/vb/1.png
 assetUrl: //tw93.fun/images/
 defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
